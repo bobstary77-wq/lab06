@@ -22,7 +22,7 @@ knitr::include_graphics("img/Speaking-the-world.jpg")
 ```
 
 _Write your comments about image 1 below_
-
+Firstly the width of the bars is not fixed as the bar representing the Chinese speaking population is of slightly different width. The length of the bars is not representing the number of speakers correctly, both English and Spanish seem to have similar populations visually but the number of English speakers is about 1.5 times larger than Spanish. The units are not consistent. Chinese speakers are measured in billions of speakers.
 
 
 
@@ -34,7 +34,7 @@ knitr::include_graphics("img/rose-pop-density-total-area-bw.jpg")
 ```
 
 _Write your comments about image 2 below_
-
+THere is no key which makes it difficult to highlight which properties of the graph correspond to population density and area. The proportions are only shown visually which is hard to gauge without percentages. The radius of the slices are different lengths which makes it unclear whether it should be considered as an additional factor. Radii should be kept the same. The shading system is not keyed.
 
 
 
@@ -45,7 +45,7 @@ knitr::include_graphics("img/life-expectancy-rule-of-law.png")
 ```
 
 _Write your comments about image 3 below_
-
+Its unclear what the sizes of the dots and colours represents. There is no scale for the life expentancy axis. It is unclear what the label 'Rule of Law' even means. Many of the dots overlap and it makes it difficult to see through. 
 
 
 
@@ -56,7 +56,7 @@ knitr::include_graphics("img/global-income-dist.PNG")
 ```
 
 _Write your comments about image 4 below_
-
+It is unclear whether the areas overlap, do we consider the visisble area of a specific region only or the 'hidden area' too. 
 
 
 
